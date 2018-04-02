@@ -1,3 +1,29 @@
+# CAKES-R-US
+
+A React/Redux cake-list PWA made using create-react-app and Redux forms with CRUD capabilities
+
+# Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
+
+# Prerequisites
+
+This project assumes a NodeJs installation, please ensure that you have node >= v6 globally on your local development machine.
+
+# Deployment
+
+This project currently must be cloned from this repo and viewed through a local server. For post-cloning instructions - please see the "available scripts" link below in the table of contents.
+
+Note: This project is additionally deployed to both github pages at https://lookandlearn76.github.io/cakes-r-us/ 
+
+and heroku at https://cakes-r-us.herokuapp.com/
+
+however, in order to view the above deployments - the api endpoint url for the data in the project "actions" folder -
+
+ must be replaced with a secure https address. 
+
+# Additional Details
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
