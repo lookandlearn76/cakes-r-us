@@ -1,6 +1,5 @@
 {
   "name": "cakes-r-us",
-  "homepage": "http://lookandlearn76.github.io/cakes-r-us",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -30,9 +29,6 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
   }
-
 }
