@@ -6,7 +6,7 @@ export const CREATE_CAKE = 'CREATE_CAKE';
 export const DELETE_CAKE = 'DELETE_CAKE';
 
 const ROOT_URL =
-  'http://ec2-52-209-201-89.eu-west-1.compute.amazonaws.com:5000/api';
+  'https://ec2-52-209-201-89.eu-west-1.compute.amazonaws.com:5000/api';
 const API_KEY = '?key=KAIROSCAKES7678';
 
 export function fetchCakes() {
